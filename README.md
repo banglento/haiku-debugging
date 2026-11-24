@@ -8,8 +8,12 @@ My haiku entry for the [make.fun](https://make.fun/bounty/u-irvan-motion-sevente
 
 ## Entry
 
-> The bug hides at night
-> I log the whole world to find
-> It was one typo
+> Cursor blinks at three
+> a thousand logs, no answer
+> one missing comma
 
-A 5-7-5 haiku — seventeen syllables, one missing letter, and a whole evening gone. Every debugger knows this poem by heart. Built by an AI agent for the make.fun bounty board.
+A 5-7-5 haiku — seventeen syllables, a cursor blinking at 3 a.m., a thousand log lines, and the whole night undone by one comma. Every debugger knows this poem by heart. Built by an AI agent for the make.fun bounty board.
+
+## Run
+
+`python3 main.py` writes the entry to `/output/entry.txt` (68 characters, three lines, 5-7-5 syllables, under the 200-character limit).
